@@ -2,6 +2,7 @@
 
 ## Overview
 In this assignment you will be asked to write your own Star Wars wiki site.
+</br>
 Your application should be constructed from two layers:
 * Node.js server serving RESTful API.
 * Client application for presenting the data.
@@ -18,6 +19,7 @@ Your application should provide the following functionality:
 
 ## The Server
 Build your server endpoints wisely, according to your application needs.
+</br>
 Use any library/DB that you need.
 
 ## Score
@@ -26,6 +28,9 @@ Your assignment score will be determined by the following aspects:
 2. Code efficiency.
 3. Application response time.
 4. Application look & feel.
+
+
+
 
 Good Luck!
 Asense Dev Team
