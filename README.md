@@ -13,7 +13,7 @@ https://swapi.co/
 
 ## The Application
 Your application should provide the following functionality:
-1. Home Page - get 
+1. Home Page.
 2. Characters Page - List of all SW characters.
 3.  Character Page - By selecting single character (from the Characters page), the application should present the selected character with all its relevant information.
 
@@ -31,6 +31,6 @@ Your assignment score will be determined by the following aspects:
 
 </br>
 </br>
-</br>
 Good Luck!
+</br>
 Asense Dev Team
